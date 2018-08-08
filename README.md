@@ -7,7 +7,7 @@ Provide repeatable step by step instructions to build a ready to deploy Debian 9
 
 ---
 ### Prerequisites
-* You will need:
+You will need:
  * A working Debian 9 Linux VM to be used as the "build station" with an additional 2 disks:
    * 25GB: for building the golden rootfs
    * 75GB: for scratchdisk, working with disk images, etc.
